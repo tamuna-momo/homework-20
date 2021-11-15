@@ -52,7 +52,5 @@ function getUsers(){
         
 }
 getUsers();
-  
-
 
 

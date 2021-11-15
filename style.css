@@ -97,3 +97,11 @@
   display: flex;
   justify-content: space-between;
 }
+.user-list-header{
+  display: flex;
+  justify-content: space-between;
+}
+table{
+  border-spacing: 40px;
+  border-bottom: #000 solid;
+}
